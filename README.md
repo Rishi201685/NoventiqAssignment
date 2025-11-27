@@ -2,8 +2,7 @@
 
 In this article, let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity. This will cover most of the practical use cases involved while developing User Management in ASP.NET Core. 
 
-## Give a Star ⭐️
-If you found this Implementation helpful or used it in your Projects, do give it a star. Thanks!
+
 
 ## Here are the Topics we will cover
 - Microsoft Identity – Overview
