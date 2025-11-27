@@ -1,7 +1,8 @@
 # Custom User Management in ASP.NET Core MVC with Identity
 
-In this article, let’s go in-depth and understand the functionalities you can achieve with the help of Microsoft Identity. We will build a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity. This will cover most of the practical use cases involved while developing User Management in ASP.NET Core. 
+this Noventiq project, we explored in depth and gained a strong understanding of the functionalities provided by Microsoft Identity. We built a small but practical implementation of Custom User Management using ASP.NET Core MVC with Identity, keeping real-world usability in focus.
 
+The project covers most of the practical use cases involved in developing User Management in ASP.NET Core, including customizations and common admin operations required in enterprise applications.
 
 
 ## Here are the Topics we will cover
